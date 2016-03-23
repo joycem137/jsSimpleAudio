@@ -1,0 +1,12 @@
+{
+  "name": "jsSimpleAudio",
+  "version": "1.0.0",
+  "description": "A simple audio API that works okay.",
+  "main": "index.js",
+  "repository": "git://github.com/joycem137/jsUtils.git",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joyce Mayorga",
+  "license": "ISC"
+}
